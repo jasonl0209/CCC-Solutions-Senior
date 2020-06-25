@@ -1,9 +1,10 @@
-from sys import *
-pink = int(stdin.readline())
-green = int(stdin.readline())
-red = int(stdin.readline())
-orange = int(stdin.readline())
-raised = int(stdin.readline())
+import sys
+input = sys.stdin.radline()
+pink = int(input())
+green = int(input())
+red = int(input())
+orange = int(input())
+raised = int(input())
 counter = 0
 lst = []
 lst2 = []
